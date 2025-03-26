@@ -14,13 +14,17 @@ In today's globalized world, video conferencing has become a staple for communic
 ## AI Solution  
 
 Our solution integrates cutting-edge AI technologies for real-time transcription.  
+## Video Demonstration
+For a detailed walkthrough of this Project, please watch the following video:
+[![Watch the video](https://img.youtube.com/vi/PmVMrQOMDw4/0.jpg)]((https://www.youtube.com/watch?v=PmVMrQOMDw4))
 
 ### Frontend:  
 - Built on **LiveKit**, an open-source platform for video conferencing.  
 - **Technologies**:  
   - **TypeScript** and **Next.js** for customization of the interface and functionalities.  
 
-### Transcription Backend:  
+
+### Transcription Backend Agent Server:  
 - **Azure Cognitive Services Speech SDK** for real-time transcription:  
   - Language recognition.  
   - Profanity filtering.  
