@@ -16,7 +16,7 @@ In today's globalized world, video conferencing has become a staple for communic
 Our solution integrates cutting-edge AI technologies for real-time transcription.  
 ## Video Demonstration
 For a detailed walkthrough of this Project, please watch the following video:
-[![Watch the video](https://img.youtube.com/vi/PmVMrQOMDw4/0.jpg)]((https://www.youtube.com/watch?v=PmVMrQOMDw4))
+[![Watch the video](https://img.youtube.com/vi/PmVMrQOMDw4/0.jpg)](https://www.youtube.com/watch?v=PmVMrQOMDw4)
 
 ### Frontend:  
 - Built on **LiveKit**, an open-source platform for video conferencing.  
