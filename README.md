@@ -93,6 +93,7 @@ To run this project locally, follow these steps:
      AZURE_SPEECH_ENDPOINT=your-endpoint
      ```
 4. For Frontend:
+   
    Install dependencies:
    ```bash
    npm install
@@ -102,7 +103,8 @@ To run this project locally, follow these steps:
    npm start
    ```
    
-5. For AI Agent:
+6. For AI Agent:
+   
    i. Installing requirements
      ```bash
      pip install -r requirement.txt
