@@ -80,7 +80,7 @@ Real-time multilingual transcription transforms video conferencing by:
 
 ---
 
-## Installation  
+## Installation and Setup
 
 To run this project locally, follow these steps:  
 1. Clone the repository:
@@ -91,21 +91,34 @@ To run this project locally, follow these steps:
    ```bash
    cd Microsoft_Hackathon_2025-capstone-
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Set up Azure Cognitive Services:
+3.  Set up Azure Cognitive Services:
    - Obtain the API key and endpoint from the Azure portal.
    - Add the key and endpoint to the `.env` file:
      ```env
      AZURE_SPEECH_KEY=your-key
      AZURE_SPEECH_ENDPOINT=your-endpoint
      ```
-5. Start the development server:
+4. For Frontend:
+   Install dependencies:
+   ```bash
+   npm install
+   ```
+   Start the development server:
    ```bash
    npm start
    ```
+   
+5. For AI Agent:
+   i. Installing requirements
+     ```bash
+     pip install -r requirement.txt
+     ```
+   
+   ii. Start the program
+     ```bash
+     python app.py start
+     ```
+   
 
 ## Contributors
 - **Harshvardhan Singh - 2201CS92**
