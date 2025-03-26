@@ -5,12 +5,6 @@ This repository hosts the AI-based real-time transcription tool for video confer
 
 ---
 
-## Introduction  
-Hello Everyone!  
-I’m **Harshvardhan Singh**, and my teammates are **Yash Kamdar**, **Ammar Ahmad**, and **Anand Kumar**. Together, we developed this tool to ensure inclusivity and efficient communication during video conferencing.  
-
----
-
 ## Problem Statement  
 In today's globalized world, video conferencing has become a staple for communication. However, language barriers and diverse accents often hinder seamless understanding.  
 **Objective**: Provide **real-time multilingual transcription** during video conferencing to bridge language gaps and improve accessibility.  
