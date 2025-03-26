@@ -1,0 +1,7 @@
+livekit-agents
+livekit-rtc
+livekit-plugins-azure
+python-dotenv
+azure-cognitiveservices-speech
+logging
+asyncio
